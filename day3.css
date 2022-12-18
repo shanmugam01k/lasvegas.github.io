@@ -19,8 +19,8 @@
   font-size: 28px;
 }
 .slider{
-  width:85%;
-  height: 500px ;
+  width:95%;
+  /* height: 500px ; */
   padding-top:60%;
   background: url(seven3.jpeg);
   background-size: cover;
