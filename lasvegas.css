@@ -82,9 +82,7 @@
   font-weight: 100;
   line-height: 25px;
 }
-.main-details{
-  margin: 30px auto;
-}
+
 .days{
   margin-top:20px;
 }
@@ -94,5 +92,7 @@ font-style: italic;
 color:rgb(223, 197, 197);
 border-radius:2px;
 border:1mm #fff groove;
-margin:0 10px;
+}
+.main-details{
+  margin: 30px auto;
 }
