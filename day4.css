@@ -1,0 +1,31 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  color:rgb(0, 0, 0)
+}
+body{
+  width:800px;
+  text-align: center;
+  margin:0 auto;
+  border:1px dashed red;
+}
+.imgs{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+}
+.canyon,.hoover{
+  width:95%;
+  height:500px;
+  margin: 20px auto;
+  border:10px ridge rgb(9, 97, 89);
+  position:relative;
+}
+.imgs p{
+  font-size: 16px;
+  
+}
